@@ -1,3 +1,40 @@
+#maincontent{
+    width: 50%;
+    margin: 0 auto;
+}
+
+
+.title
+{
+    background-color: #f142f4;
+    padding: 30px;
+    margin: 50px;
+    
+}
+
+.buttonSection{
+    background-color:#4b74b7;
+    width: 300px;
+}
+.edit{ 
+    background-color: #4f9b56;
+    color: #fff;
+    padding: 5px;
+}
+.delete{
+    background-color: red;
+    color: #fff;
+    padding: 5px;
+}
+
+.mainlist p {
+    display: inline;
+    
+}
+
+.mainlist li { 
+    margin-bottom: 25px;
+}
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
